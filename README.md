@@ -1,48 +1,49 @@
-# React Practice Challenges 
+#  React Practice Challenges – Level 2
 
-This repository contains **10 beginner-friendly React.js practice components**.  
-Each one focuses on core concepts like `useState`, props, events, conditional rendering, and component composition.
+This repository contains **10 intermediate-level React.js practice components**, designed to strengthen your understanding of core concepts like `useState`, `useEffect`, conditional rendering, props drilling, and reusable components.
 
-**Live Demo:**  
-Link -> [View the Live App](https://muhammadshoaib20.github.io/react-practice-challenges)
-
-##  App Screenshot
-
-![React Practice Preview](./images/1-10-Practise.png)
-
+ **Live Demo:**  
+[View the Live App](https://muhammadshoaib20.github.io/react-practice-level2)
 
 ---
 
-##  List of Challenges
+##  App Preview
 
-1.   Greeting Component (props)
-2.   Dynamic Age Display (useState)
-3.   Input Tracker (useState with live updates)
-4.   Toggle Visibility (Show/Hide paragraph)
-5.   Multiple Buttons (Increase/Decrease with one state)
-6.   Fruit List (props + list rendering)
-7.   Even or Odd Checker (input + conditional logic)
-8.   Color Changer (text color switch using buttons)
-9.   Simple Form Submit (name/email with message)
-10.  UserCard Component (props + card layout)
+![Level 2 React Practice Preview](./images/level2-preview.png)
 
 ---
 
-##  Tech Used
+## List of Level 2 Challenges
 
-- React.js
-- JavaScript (ES6+)
-- JSX
-- CSS
-- Git & GitHub
+| #   | Challenge Name              | Key Concepts Used                        |
+|-----|-----------------------------|-------------------------------------------|
+| 1️⃣ | Real-Time Clock             | useEffect, JavaScript Date object        |
+| 2️⃣ | Dark Mode Toggle           | useState, conditional class rendering     |
+| 3️⃣ | Fetch User Data            | useEffect, fetch API, mapping lists       |
+| 4️⃣ | Conditional Greeting       | useState, ternary operator                |
+| 5️⃣ | Show/Hide Password         | useState, input type toggle               |
+| 6️⃣ | Props Drilling Practice    | props chaining from Parent → Child → GC   |
+| 7️⃣ | Reusable Button Component  | props, composition, event handling        |
+| 8️⃣ | Image Gallery Preview      | useState, dynamic image rendering         |
+| 9️⃣ | Simple Tab Switcher        | useState, conditional content display     |
+| 🔟 | Typing Speed Tracker        | useState, useRef, timers, live interaction|
+
+---
+
+##  Tech Stack
+
+-  React.js (Functional Components)
+-  JavaScript (ES6+)
+-  CSS
+-  Git + GitHub
 
 ---
 
 ##  How to Run Locally
 
 ```bash
-git clone https://github.com/MuhammadShoaib20/react-practice-challenges.git
-cd react-practice-challenges
+git clone https://github.com/MuhammadShoaib20/react-practice-level2.git
+cd react-practice-level2
 npm install
 npm start
 ```
@@ -55,7 +56,7 @@ npm start
 
 This project is deployed using **GitHub Pages** with the help of the `gh-pages` package.
 
-### 🔧 Steps to Deploy
+###  Steps to Deploy
 
 ```bash
 npm install
