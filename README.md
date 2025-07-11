@@ -3,7 +3,7 @@
 This repository contains **10 intermediate-level React.js practice components**, designed to strengthen your understanding of core concepts like `useState`, `useEffect`, conditional rendering, props drilling, and reusable components.
 
  **Live Demo:**  
-[View the Live App](https://muhammadshoaib20.github.io/react-practice-level2)
+[View the Live App](https://muhammadshoaib20.github.io/React-Challenges-Level-02)
 
 ---
 
@@ -70,7 +70,7 @@ npm run deploy
 
 ###  Live App
 
-[https://MuhammadShoaib20.github.io/react-practice-challenges](https://MuhammadShoaib20.github.io/react-practice-challenges)
+[https://muhammadshoaib20.github.io/React-Challenges-Level-02](https://muhammadshoaib20.github.io/React-Challenges-Level-02)
 
 
 ---
@@ -88,6 +88,6 @@ If you found this repository helpful, consider giving it a ⭐ on GitHub.
 It helps others discover it and motivates me to build more cool stuff!
 
 
-🌟 [Star this repo](https://github.com/MuhammadShoaib20/react-practice-challenges)
+🌟 [Star this repo](https://github.com/MuhammadShoaib20/React-Challenges-Level-02)
 
 
