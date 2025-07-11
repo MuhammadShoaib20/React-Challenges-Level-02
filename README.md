@@ -9,7 +9,8 @@ This repository contains **10 intermediate-level React.js practice components**,
 
 ##  App Preview
 
-![Level 2 React Practice Preview](./images/level2-preview.png)
+![Level 2 React Practice Preview](./images/Image01.png)
+![Level 2 React Practice Preview](./images/Image02.png)
 
 ---
 
