@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Challenges-Level-02/static/css/main.5c0e877c.css",
+    "main.js": "/React-Challenges-Level-02/static/js/main.0bf49a73.js",
+    "index.html": "/React-Challenges-Level-02/index.html",
+    "main.5c0e877c.css.map": "/React-Challenges-Level-02/static/css/main.5c0e877c.css.map",
+    "main.0bf49a73.js.map": "/React-Challenges-Level-02/static/js/main.0bf49a73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c0e877c.css",
+    "static/js/main.0bf49a73.js"
+  ]
+}
